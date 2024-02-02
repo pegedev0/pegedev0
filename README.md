@@ -1,4 +1,4 @@
-- 👋 ¡Hola!, soy @pegedev0
+- 👋 ¡Hola!, soy pegedev0
 - 🎓 Estoy en mi tercer año de ingeniería informática
 - 👀 Aprendo por mi cuenta Desarrollo Web en distintos frameworks
 - 🌱 Tengo proyectos desarrollados con NextJS, Astro, ViteJS, etc.
