@@ -1,5 +1,4 @@
 - 👋 ¡Hola!, soy pegedev0
-- 🎓 Estoy en mi tercer año de ingeniería informática
-- 👀 Aprendo por mi cuenta Desarrollo Web en distintos frameworks
+- 🎓 Estoy en mi cuarto año de ingeniería informática
 - 🌱 Tengo proyectos desarrollados con NextJS, Astro, ViteJS, etc.
 - 📫 pegedev0@gmail.com
