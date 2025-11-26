@@ -1,5 +1,5 @@
-- 👋 ¡Hola!, soy pegedev0
+- 👋 ¡Hola!, soy Pepe
 - 🎓 Estoy en mi cuarto año de ingeniería informática
 - 🤩 Me apasionan las redes, la ciberseguridad y el hardware entre otros
-- 🌱 Tengo proyectos desarrollados con NextJS, Astro, Python + IA, Java, etc.
+- 🌱 Tengo proyectos desarrollados con NextJS, Astro, Python + IA, Java, C++, etc.
 - 📫 pegedev0@gmail.com
