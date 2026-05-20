@@ -1,5 +1,4 @@
 - 👋 ¡Hola!, soy Pepe
-- 🎓 Estoy en mi cuarto año de ingeniería informática
-- 🤩 Me apasionan las redes, la ciberseguridad y el hardware entre otros
-- 🌱 Tengo proyectos desarrollados con NextJS, Astro, Python + IA, Java, C++, etc.
+- 🎓 Estoy en mi último año de ingeniería informática
+- 🤩 Me apasionan los sistemas embebidos y las redes, entre otros
 - 📫 pegedev0@gmail.com
