@@ -1,4 +1,3 @@
-- 👋 ¡Hola!, soy Pepe
-- 🎓 Estoy en mi último año de ingeniería informática
-- 🤩 Me apasionan los sistemas embebidos y las redes, entre otros
-- 📫 pegedev0@gmail.com
+Graduado en Ingeniería de Computadores y en continua mejora en el mundo de los sistemas embebidos y las redes, entre otros.
+
+Contacto: pegedev0@gmail.com
